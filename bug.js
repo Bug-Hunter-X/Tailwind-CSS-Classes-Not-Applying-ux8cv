@@ -1,0 +1,1 @@
+I encountered an issue where Tailwind CSS classes weren't being applied correctly to my elements.  The CSS was being compiled, but the styles weren't showing up on the page. I checked my configuration, and my import statements in my main CSS file were all correct.  I also purged the cache and restarted my development server multiple times.
